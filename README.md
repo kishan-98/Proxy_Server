@@ -56,7 +56,8 @@ will run 10 client scripts each on one port in range 20001-20010, in separate sc
 - set blacklisted server port in ![blacklist.txt](/blacklist.txt) and username password in ![username_password.txt](/username_password.txt) and try to access blacklisted port using curl command.
 - see the changes in cache directory.
 
-## Scope of improvement
-- Remove authentication headers after authentication.
-- Handle HTTPS requests also.
-- Try some security attacks on working proxy and give solutions to secure it.
+<!--## Scope of improvement-->
+<!--- Remove authentication headers after authentication.-->
+<!--- Handle HTTPS requests also.-->
+<!--- Try some security attacks on working proxy and give solutions to secure it.-->
+
